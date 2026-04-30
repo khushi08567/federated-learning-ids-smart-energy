@@ -1,0 +1,62 @@
+[
+  {
+    "index": 0,
+    "timestamp": "2026-04-28 13:57:57",
+    "round_num": 0,
+    "client_id": "GENESIS",
+    "weight_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "accuracy": 0.0,
+    "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "hash": "17df54c3c8e4dc5223c5eea6d7706b758e86467643d58bed6c70dd9c2832aba0"
+  },
+  {
+    "index": 1,
+    "timestamp": "2026-04-28 13:57:57",
+    "round_num": 1,
+    "client_id": "SmartHome",
+    "weight_hash": "7f793c0f1729dcf32e40e31628a35efaf330578112555a8cd2b591806bf235a7",
+    "accuracy": 0.91,
+    "previous_hash": "17df54c3c8e4dc5223c5eea6d7706b758e86467643d58bed6c70dd9c2832aba0",
+    "hash": "2b03034a7ac5f2e85fbff8b5209462c7158b867b7ad4443eaa2255afa8cc01a5"
+  },
+  {
+    "index": 2,
+    "timestamp": "2026-04-28 13:57:57",
+    "round_num": 1,
+    "client_id": "EVCharging",
+    "weight_hash": "7f793c0f1729dcf32e40e31628a35efaf330578112555a8cd2b591806bf235a7",
+    "accuracy": 0.89,
+    "previous_hash": "2b03034a7ac5f2e85fbff8b5209462c7158b867b7ad4443eaa2255afa8cc01a5",
+    "hash": "abe0368834bf8cb999deab23f286ff5b626f8c4788fc13179722ea8d6a004972"
+  },
+  {
+    "index": 3,
+    "timestamp": "2026-04-28 13:57:57",
+    "round_num": 1,
+    "client_id": "GridSensor",
+    "weight_hash": "7f793c0f1729dcf32e40e31628a35efaf330578112555a8cd2b591806bf235a7",
+    "accuracy": 0.92,
+    "previous_hash": "abe0368834bf8cb999deab23f286ff5b626f8c4788fc13179722ea8d6a004972",
+    "hash": "55a093f0d516457496e6b3b8e81d61b661621d5166277c6d6c87e60566c6c042"
+  },
+  {
+    "index": 4,
+    "timestamp": "2026-04-28 13:57:57",
+    "round_num": 2,
+    "client_id": "SmartHome",
+    "weight_hash": "7f793c0f1729dcf32e40e31628a35efaf330578112555a8cd2b591806bf235a7",
+    "accuracy": 0.93,
+    "previous_hash": "55a093f0d516457496e6b3b8e81d61b661621d5166277c6d6c87e60566c6c042",
+    "hash": "3fef115dbb879c8fda5823b56f119f3c6dc23f522df145d93df563fdadbe9cee"
+  },
+  {
+    "index": 5,
+    "timestamp": "2026-04-28 13:57:57",
+    "round_num": 2,
+    "client_id": "SolarWind",
+    "weight_hash": "7f793c0f1729dcf32e40e31628a35efaf330578112555a8cd2b591806bf235a7",
+    "accuracy": 0.94,
+    "previous_hash": "3fef115dbb879c8fda5823b56f119f3c6dc23f522df145d93df563fdadbe9cee",
+    "hash": "07d37c8a2b2d68c93a497171f5b6d49801e139ec5ab13fca747075d74b77f421"
+  }
+]
